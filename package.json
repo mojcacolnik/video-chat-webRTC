@@ -1,0 +1,15 @@
+{
+  "name": "video-chat-with-webrtc",
+  "version": "1.0.0",
+  "description": "A Video Chat Application using webRTC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mojca Colnik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
